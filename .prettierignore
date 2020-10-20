@@ -1,0 +1,11 @@
+*.idea
+*.iml
+*.vscode
+build/
+dist/swagger.json
+docs/
+node_modules/
+typings/
+test/postman/
+package-lock.json
+yarn.lock

@@ -1,0 +1,8 @@
+{
+    "watch": [".env", "index.js", "docs/swaggerDef.js", "src/**/*.*"],
+    "ext": "js,json,html,hbs",
+    "events": {
+        "start": "npm run lint"
+    },
+    "delay": "500"
+}
